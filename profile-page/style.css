@@ -94,9 +94,6 @@ body {
 #goto-btn,
 #goto-link {
     text-decoration: none;
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
     width: 200px;
 
 }
@@ -106,4 +103,14 @@ body {
     background: white;
     color: #0057FF;
     transition: .3s;
+}
+
+#navigate-btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
 }

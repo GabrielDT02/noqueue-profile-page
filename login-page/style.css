@@ -84,15 +84,23 @@ form {
 
 }
 
-#goto-btn,
-#goto-link {
-    text-decoration: none;
+#navigate-btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     position: absolute;
     bottom: 20px;
     right: 20px;
+}
+
+#goto-btn,
+#goto-link {
+    text-decoration: none;
     width: 200px;
 
 }
+
 
 
 #goto-btn:hover,
