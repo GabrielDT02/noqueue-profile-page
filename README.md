@@ -9,7 +9,8 @@ This repository contains a small part of a mobile application project created as
 ![Profile Page](assets/images/noqueue-profile-page.png)
 
 
-
+[Click me to view the No Queue Login Page](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/login-page/index.html)
+[Click me to view the No Queue Profile Page](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/profile-page/index.html)
 
 
 
