@@ -4,7 +4,8 @@ This repository contains a small part of a mobile application project created as
 
 # Login page
 ![Login Page](assets/images/login-page.png) <br>
-[Click to view the No Queue Login Page](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/login-page/index.html){:target="_blank"}
+[Click to view the No Queue Login Page](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/login-page/index.html)
+<a href="https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/login-page/index.html" target="_blank"> Click to view the No Queue Login Page </a>
 
 # Profile page
 ![Profile Page](assets/images/noqueue-profile-page.png) <br>
