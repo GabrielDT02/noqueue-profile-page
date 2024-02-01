@@ -11,7 +11,9 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin: 48px 0 270px 0;
+    margin: auto;
+    max-width: 600px;
+    margin: 48px auto 270px auto;
 }
 
 #profile {
@@ -74,4 +76,33 @@ body {
 .options a:hover {
     text-decoration: underline;
     
+}
+
+#goto-btn {
+    display: block;
+    margin: 15px auto;
+    color: white;
+    background-color: #0057FF;
+    padding: 10px 5px;
+    border-radius: 10px;
+    width: 70%;
+    font-size: 16px;
+
+}
+
+#goto-btn,
+#goto-link {
+    text-decoration: none;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 200px;
+
+}
+
+
+#goto-btn:hover {
+    background: white;
+    color: #0057FF;
+    transition: .3s;
 }
