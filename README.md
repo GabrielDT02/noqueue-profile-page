@@ -6,12 +6,12 @@ You can check the project repository by clicking &nbsp;  [=> here <=](https://gi
  <br> <br>
 # Login page
 ![Login Page](assets/images/login-page.png) <br>
-[](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/login-page/index.html)
+[Click to see the login page](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/login-page/index.html)
 <br>
 
 # Profile page
 ![Profile Page](assets/images/noqueue-profile-page.png) <br>
-[](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/profile-page/index.html)
+[Click to see the profile page](https://gabrieldinecktremarin.github.io/noqueue-profile-page-and-login-page/profile-page/index.html)
 
 
 
