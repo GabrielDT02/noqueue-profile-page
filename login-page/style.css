@@ -9,13 +9,16 @@
 
 
 
+html {
+    background: linear-gradient(180deg, #00FFF0 0%, #002249 98.44%);
+    height: 100vh;
+}
 
 
 body {
-    height: 100vh;
-    background: linear-gradient(180deg, #00FFF0 0%, #002249 98.44%);
     border-radius: 25px;
     position: relative;
+
 
 }
 
@@ -101,7 +104,7 @@ form {
 }
 
 #navigate-btns {
-    margin-top: 100px;
+    margin-top: 10px;
     display: flex;
     flex-direction: row;
     gap: 5px;
